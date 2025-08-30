@@ -32,7 +32,7 @@ This repository documents a controlled detonation of a phishing email that deliv
 - DNS query to: `instance-t68c6n-relay.screenconnect[.]com`
 - Established TLS connection to **15.204.43.235**
 
-![TCPView](screenshots/tcpview.png)
+![TCPView](/tcpview.png)
 
 ---
 
